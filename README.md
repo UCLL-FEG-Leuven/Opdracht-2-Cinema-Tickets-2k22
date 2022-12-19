@@ -9,4 +9,5 @@
 1. Open de projectmap in ***vscode***
 2. Open een ***terminal*** in de project map
 3. **cd** naar **/server**
-4. run **nodemon** of **node server.js**
+4. run in de ***terminal*** het volgende commando '**npm i**'
+5. run **nodemon** of **node server.js**
